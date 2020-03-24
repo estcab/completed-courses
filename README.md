@@ -6,4 +6,3 @@
 
 ## AWS
 [AWS Developer: The Big Picture](https://app.pluralsight.com/library/courses/aws-developer-big-picture/)
-
