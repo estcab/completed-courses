@@ -13,4 +13,9 @@
 [Getting Started with TeamCity](https://app.pluralsight.com/library/courses/teamcity-getting-started/) (2020-03)
 
 ## Docker
+[Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/) (2020-04)
+
+[Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/) (2020-04)
+
 [Docker Images and Containers for ASP.NET Core](https://app.pluralsight.com/library/courses/docker-images-containers-aspdotnet-core/) (2020-03)
+
