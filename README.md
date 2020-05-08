@@ -10,6 +10,12 @@
 ## AWS
 [AWS Developer: The Big Picture](https://app.pluralsight.com/library/courses/aws-developer-big-picture/) (2020-03)
 
+[Fundamental Cloud Concepts for AWS](https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/) (2020-04)
+
+[Implementing Amazon Elastic Block Store (EBS)](https://app.pluralsight.com/library/courses/aws-elastic-block-store-implementing/) (2020-04)
+
+[Implementing AWS EC2 Auto Scaling](https://app.pluralsight.com/library/courses/aws-ec2-auto-scaling-implementing/) (2020-04)
+
 ## CI/CD
 
 [Getting Started with TeamCity](https://app.pluralsight.com/library/courses/teamcity-getting-started/) (2020-03)
