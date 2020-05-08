@@ -18,13 +18,13 @@
 ## AWS
 [AWS Developer: The Big Picture](https://app.pluralsight.com/library/courses/aws-developer-big-picture/) (2020-03)
 
-[Fundamental Cloud Concepts for AWS](https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/) (2020-04)
+[AWS Developer: Getting Started](https://app.pluralsight.com/library/courses/aws-developer-getting-started/) (2020-05)
 
-[Implementing Amazon Elastic Block Store (EBS)](https://app.pluralsight.com/library/courses/aws-elastic-block-store-implementing/) (2020-04)
+[Fundamental Cloud Concepts for AWS](https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/) (2020-04)
 
 [Implementing AWS EC2 Auto Scaling](https://app.pluralsight.com/library/courses/aws-ec2-auto-scaling-implementing/) (2020-04)
 
-[AWS Developer: Getting Started](https://app.pluralsight.com/library/courses/aws-developer-getting-started/) (2020-05)
+[Implementing Amazon Elastic Block Store (EBS)](https://app.pluralsight.com/library/courses/aws-elastic-block-store-implementing/) (2020-04)
 
 [Connecting and Deploying Amazon ElastiCache](https://app.pluralsight.com/library/courses/aws-database-amazon-elasticache/) (2020-05)
 
